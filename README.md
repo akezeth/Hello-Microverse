@@ -44,8 +44,6 @@
 - [ ] **github_flow**
 - [ ] **linter_for_html&css**
 
-- **Home Page**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -98,8 +96,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **responsive_navbar**
 - [ ] **flex-box**
 - [ ] **grid**
@@ -121,8 +117,6 @@ If you like this project, you can modify and/or contirbute.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the Micorverse program.
 
