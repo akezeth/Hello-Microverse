@@ -40,6 +40,10 @@
 
 ### Key Features <a name="key-features"></a>
 
+- [ ] **proper_documentation**
+- [ ] **github_flow**
+- [ ] **linter_for_html&css**
+
 - **Home Page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,9 +100,9 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **responsive_navbar**
+- [ ] **flex-box**
+- [ ] **grid**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,15 +110,13 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [[issues page](https://github.com/akezeth/Hello-Microverse/issues)](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, you can modify and/or contirbute.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
